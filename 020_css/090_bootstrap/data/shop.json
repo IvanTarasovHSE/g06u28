@@ -1,0 +1,78 @@
+[
+  {
+    "id": "1",
+    "title": "Лосяш",
+    "vendor_code": "111",
+    "description": "Мягкая игрушка",
+    "price": 100,
+    "img": "../../images/losyash.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Ёжик",
+    "vendor_code": "222",
+    "description": "Мягкая игрушка",
+    "price": 100,
+    "img": "../../images/ezhik.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Копатыч",
+    "vendor_code": "333",
+    "description": "Мягкая игрушка",
+    "price": 100,
+    "img": "../../images/kopatych.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Крош",
+    "vendor_code": "444e",
+    "description": "Мягкая игрушка",
+    "price": 100,
+    "img": "../../images/krosh.jpg"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Пин",
+    "vendor_code": "4445e",
+    "description": "Мягкая игрушка",
+    "price": 100,
+    "img": "../../images/pin.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Совунья",
+    "vendor_code": "4446e",
+    "description": "Мягкая игрушка",
+    "price": 100,
+    "img": "../../images/sovynia.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Нюша",
+    "vendor_code": "4447e",
+    "description": "Мягкая игрушка",
+    "price": 100,
+    "img": "../../images/nuysha.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Бараш",
+    "vendor_code": "4448e",
+    "description": "Мягкая игрушка",
+    "price": 100,
+    "img": "../../images/barash.jpg"
+  },
+  {
+    "id": "9",
+    "title": "БиБи",
+    "vendor_code": "444e",
+    "description": "Мягкая игрушка",
+    "price": 100,
+    "img": "../../images/bibi.jpg"
+
+  }
+
+
+]
